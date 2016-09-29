@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../cs/AviionAndroidPlayerLibrary/AviionPlayerLibrary/AviionPlayerLibrary.iml" filepath="$PROJECT_DIR$/../cs/AviionAndroidPlayerLibrary/AviionPlayerLibrary/AviionPlayerLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChromecastApp.iml" filepath="$PROJECT_DIR$/ChromecastApp.iml" />
+      <module fileurl="file://$USER_HOME$/Documents.iml" filepath="$USER_HOME$/Documents.iml" />
+      <module fileurl="file://$USER_HOME$/Documents.iml" filepath="$USER_HOME$/Documents.iml" />
+      <module fileurl="file://$USER_HOME$/Documents.iml" filepath="$USER_HOME$/Documents.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../cs/AviionAndroidPlayerLibrary/aviionandroidplayerlibrary.iml" filepath="$PROJECT_DIR$/../cs/AviionAndroidPlayerLibrary/aviionandroidplayerlibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../cs/cs.iml" filepath="$PROJECT_DIR$/../cs/cs.iml" />
+    </modules>
+  </component>
+</project>
